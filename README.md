@@ -8,11 +8,37 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alawadhi92&color=orange&style=for-the-badge)
 
-### 🌐 Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-mohammed--alawadhi.netlify.app-F97316?style=for-the-badge&logo=netlify&logoColor=white)](https://mohammed-alawadhi.netlify.app/)
-
 </div>
+
+---
+
+## 🔗 Quick Links
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌍 Portfolio</h3>
+      <p>Personal developer profile and professional portfolio.</p>
+      <a href="https://mohammed-alawadhi.netlify.app/">
+        <img src="https://img.shields.io/badge/Open%20Portfolio-F97316?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>🚀 ERPX PRO</h3>
+      <p>Enterprise Resource Planning platform for business operations.</p>
+      <a href="https://erpxpro.com">
+        <img src="https://img.shields.io/badge/Visit%20ERPX%20PRO-111827?style=for-the-badge&logo=windows&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <h3>💻 GitHub</h3>
+      <p>Projects, source code, and development activity.</p>
+      <a href="https://github.com/Alawadhi92">
+        <img src="https://img.shields.io/badge/View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
