@@ -8,6 +8,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alawadhi92&color=orange&style=for-the-badge)
 
+### 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Personal%20Portfolio-mohammed--alawadhi.netlify.app-F97316?style=for-the-badge&logo=netlify&logoColor=white)](https://mohammed-alawadhi.netlify.app/)
+
 </div>
 
 ---
@@ -176,6 +180,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ## 📫 Contact
 
+- Portfolio: https://mohammed-alawadhi.netlify.app/
 - Website: https://erpxpro.com
 - Email: itstore2010@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/mohammedhamoudahmedalawadhi
