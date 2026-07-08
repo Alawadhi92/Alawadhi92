@@ -11,9 +11,14 @@ Enterprise Resource Planning (ERP) solutions for Retail, Wholesale & Hypermarket
 - .NET MAUI
 - SQL Server
 - Entity Framework Core
+- DevExpress
+- Stimulsoft Reports
+- Crystal Reports
+- SQL Server Reporting Services (SSRS)
 - Inventory Management
 - Financial Accounting
 - Procurement & Sales
+- Business Intelligence & Reporting
 - ZATCA E-Invoicing
 
 ### 🏆 ERPX PRO
