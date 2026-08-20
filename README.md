@@ -17,21 +17,21 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🌍 Portfolio</h3>
+      <h3>Portfolio</h3>
       <p>Personal developer profile and professional portfolio.</p>
       <a href="https://mohammed-alawadhi.netlify.app/">
         <img src="https://img.shields.io/badge/Open%20Portfolio-F97316?style=for-the-badge&logo=netlify&logoColor=white" />
       </a>
     </td>
     <td align="center" width="33%">
-      <h3>🚀 ERPX PRO</h3>
+      <h3>ERPX PRO</h3>
       <p>Enterprise Resource Planning platform for business operations.</p>
       <a href="https://erpxpro.com">
         <img src="https://img.shields.io/badge/Visit%20ERPX%20PRO-111827?style=for-the-badge&logo=windows&logoColor=white" />
       </a>
     </td>
     <td align="center" width="33%">
-      <h3>💻 GitHub</h3>
+      <h3>GitHub</h3>
       <p>Projects, source code, and development activity.</p>
       <a href="https://github.com/Alawadhi92">
         <img src="https://img.shields.io/badge/View%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a software developer focused on building enterprise-grade ERP systems using Microsoft technologies.
 
@@ -50,7 +50,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ---
 
-## 🏆 ERPX PRO
+##  ERPX PRO
 
 **ERPX PRO** is a complete Enterprise Resource Planning platform for retail, wholesale, hypermarkets, and multi-branch businesses.
 
@@ -80,7 +80,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ---
 
-## 💻 Professional Skills
+##  Professional Skills
 
 ### Programming & Frameworks
 
@@ -112,7 +112,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ---
 
-## 🧠 ERP & Business Domain Expertise
+##  ERP & Business Domain Expertise
 
 | Area | Experience |
 |---|---|
@@ -127,7 +127,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ---
 
-## 🏗️ Architecture Experience
+##  Architecture Experience
 
 - Multi-layer Architecture
 - Clean Architecture
@@ -142,7 +142,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -159,7 +159,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -169,7 +169,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 | Project | Description | Technology |
 |---|---|---|
@@ -181,7 +181,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ---
 
-## ✅ Highlights
+##  Highlights
 
 - Enterprise ERP System Development
 - Desktop + Web + Mobile Applications
@@ -197,14 +197,14 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 ---
 
-## 🌍 Languages
+##  Languages
 
 - Arabic
 - English
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - Portfolio: https://mohammed-alawadhi.netlify.app/
 - Website: https://erpxpro.com
@@ -216,7 +216,7 @@ My main product is **ERPX PRO**, a complete ERP platform designed for businesses
 
 <div align="center">
 
-### ⭐ Thank you for visiting my profile
+###  Thank you for visiting my profile
 
 **Building modern ERP solutions for real business operations**
 
